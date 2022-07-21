@@ -1,0 +1,44 @@
+{
+  "name": "YuconFrameworkRojo",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "SHARED_CLASSES": {
+        "$path": "src/shared/classes"
+      },
+      "SHARED_PLUGINS": {
+        "$path": "src/shared/plugins"
+      },
+      "SHARED_SCRIPTS": {
+        "$path": "src/shared-scripts"
+      }
+    },
+
+    "ServerScriptService": {
+      "SCRIPTS": {
+        "$path": "src/server/scripts"
+      },
+      "CLASSES": {
+        "$path": "src/server/classes"
+      },
+      "PLUGINS": {
+        "$path": "src/server/plugins"
+      }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "SCRIPTS": {
+          "$path": "src/client/scripts"
+        },
+        "CLASSES": {
+          "$path": "src/client/classes"
+        },
+        "PLUGINS": {
+          "$path": "src/client/plugins"
+        }
+      }
+    }
+  }
+}
