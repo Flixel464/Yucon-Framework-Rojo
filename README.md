@@ -1,6 +1,11 @@
 # About this project
 I created this so that people would be able to use the Yucon Coding framework in conjuction with Rojo so that it would be more convenient for developers. I did this by editing the default.project.json file.
 
+# Warning
+
+If you are experiencing errors similar to:
+FrameworkServer is not a valid member of ServerScriptService, that means that you have to delete everything that was inserted into your game by rojo (The only things that are inserted are in StarterPlayerScripts, ServerScriptService and ReplicatedStorage) and import Yucon before starting rojo again.
+
 # Placeholder Files
 If you see this placeholder.txt files in your directories, feel free to delete them, however, if they appear in your game, you can run this code in your studio command bar to get rid of them:
 ```lua
