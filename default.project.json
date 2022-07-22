@@ -11,7 +11,7 @@
         "$path": "src/shared/plugins"
       },
       "SHARED_SCRIPTS": {
-        "$path": "src/shared-scripts"
+        "$path": "src/shared/scripts"
       }
     },
 
