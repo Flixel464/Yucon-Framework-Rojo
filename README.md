@@ -17,7 +17,7 @@ for _,placeholder in pairs(game:GetDescendants()) do if placeholder:IsA("StringV
 ```
 
 # Disclaimer
-I am not related to both Yucon and Rojo's development teams and simply build this project for convenience. If you occur any issues with the products, please contact their developers as I am unable to help you with them.
+I am not affiliated to both Yucon and Rojo's development teams and simply build this project for convenience. If you occur any issues with the products, please contact their developers as I am unable to help you with them.
 
 For more resources on the products, here are some links:
 
