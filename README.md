@@ -21,6 +21,6 @@ I am not affiliated to both Yucon and Rojo's development teams and simply build 
 
 For more resources on the products, here are some links:
 
-https://devforum.roblox.com/t/yucon-framework-optimization-organization-and-high-level-security/630895/55
+https://devforum.roblox.com/t/yucon-framework-optimization-organization-and-high-level-security/630895
 
 https://rojo.space
