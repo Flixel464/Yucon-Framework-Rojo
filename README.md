@@ -1,3 +1,6 @@
+# Discontinued
+Although discontinued, this project is still available to use however, will not support the new updates that are rolled out for Yucon and Rojo. Rojo 7 is recomended if you would still like to use it.
+
 # About this project
 I created this so that people would be able to use the Yucon Coding framework in conjuction with Rojo so that it would be more convenient for developers. I did this by editing the default.project.json file.
 
